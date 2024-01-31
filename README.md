@@ -7,10 +7,10 @@ User Authentication: Secure authentication system for user management.
 Create, Read, Update, Delete (CRUD) Operations: Allows users to perform CRUD operations on blog posts.
 Responsive Design: Ensures optimal viewing experience across a wide range of devices.
 Customizable: Easily customizable to fit your specific requirements and design preferences.
-Installation
+<u><b>Installation</b></u>
 To run this project locally, follow these steps:
 
-Clone the repository to your local machine:
+<b>Clone the repository to your local machine:</b>
 
 bash
 Copy code
@@ -46,18 +46,20 @@ cd ../client
 npm start
 Open your web browser and visit http://localhost:3000 to view the application.
 
-Contributing
+<b>Contributing</b>
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-License
+<br>
+<b>License</b>
 This project is licensed under the MIT License.
 
-Acknowledgements
+<b>Acknowledgements</b>
 This project was inspired by the need for a modern and robust blog platform.
 We thank the open-source community for their valuable contributions and feedback.
-Contact
-If you have any questions or inquiries, please contact project_author.
 
+<b>Contact</b>
+If you have any questions or inquiries, contact me <br>
+echoaditya[https://gaurav-aditya.github.io]
+<br>
 Thank you for using the MERN Blog Platform! Happy blogging! 🚀
 
 About Me :- [https://linktr.ee/echoaditya]

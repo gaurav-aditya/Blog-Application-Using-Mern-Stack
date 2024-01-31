@@ -46,17 +46,17 @@ cd ../client
 npm start
 Open your web browser and visit http://localhost:3000 to view the application.
 
-<b>Contributing</b>
+<b>Contributing</b><br>
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 <br>
-<b>License</b>
+<b>License</b><br>
 This project is licensed under the MIT License.
 
-<b>Acknowledgements</b>
+<b>Acknowledgements</b><br>
 This project was inspired by the need for a modern and robust blog platform.
 We thank the open-source community for their valuable contributions and feedback.
 
-<b>Contact</b>
+<b>Contact</b><br>
 If you have any questions or inquiries, contact me <br>
 echoaditya[https://gaurav-aditya.github.io]
 <br>

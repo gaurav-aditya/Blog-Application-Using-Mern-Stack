@@ -12,7 +12,7 @@ Welcome to the MERN Blog Platform repository! This project aims to create a robu
 ## Installation
 To run this project locally, follow these steps:
 
-## Clone the repository to your local machine:
+### Clone the repository to your local machine:
 ```bash
 git clone gaurav-aditya/Blog-Application-Using-Mern-Stack.git
 
@@ -35,7 +35,7 @@ npm start
 ## Start the client:
 cd ../client
 npm start
-
+```
 ### Open your web browser and visit http://localhost:3000 to view the application.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.

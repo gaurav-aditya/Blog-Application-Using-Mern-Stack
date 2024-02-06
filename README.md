@@ -12,7 +12,7 @@ Welcome to the MERN Blog Platform repository! This project aims to create a robu
 ## Installation
 To run this project locally, follow these steps:
 
-### Clone the repository to your local machine:
+## Clone the repository to your local machine:
 ```bash
 git clone gaurav-aditya/Blog-Application-Using-Mern-Stack.git
 

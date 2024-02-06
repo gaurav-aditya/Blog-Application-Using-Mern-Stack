@@ -47,8 +47,9 @@ This project is licensed under the MIT License.
 This project was inspired by the need for a modern and robust blog platform. We thank the open-source community for their valuable contributions and feedback.
 
 ## Contact
-If you have any questions or inquiries, contact me at echoaditya.
+If you have any questions or need further assistance, feel free to contact the tutorial author at echoaditya@proton.me.
 
 ## Thank you for using the MERN Blog Platform! Happy blogging! 
 
-About Me: (echoaditya)[https://linktr.ee/echoaditya]
+To learn more about my projects and interests, visit my [website](https://gaurav-aditya.github.io).
+
